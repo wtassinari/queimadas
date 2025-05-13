@@ -11,3 +11,7 @@ Nos últimos anos, pesquisas identificaram uma forte correlação entre período
 Este projeto busca, portanto, integrar a análise ambiental com a perspectiva de saúde pública, contribuindo com evidências científicas para a elaboração de estratégias integradas de prevenção e mitigação dos efeitos nocivos das queimadas no Brasil.
 
 📌 Palavras-chave: Queimadas, Saúde Pública, Doenças Respiratórias, Poluição Atmosférica, Monitoramento Ambiental.
+
+https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/q/queimadas
+
+
