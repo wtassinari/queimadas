@@ -12,6 +12,10 @@ Este projeto busca, portanto, integrar a análise ambiental com a perspectiva de
 
 📌 Palavras-chave: Queimadas, Saúde Pública, Doenças Respiratórias, Poluição Atmosférica, Monitoramento Ambiental.
 
+Fontes:
+
 https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/q/queimadas
+
+https://terrabrasilis.dpi.inpe.br/
 
 
